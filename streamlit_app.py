@@ -114,4 +114,4 @@ elif menu == "Relatório":
     st.subheader("Manutenções Agendadas")
     st.write(pd.DataFrame(st.session_state.manutencoes))
 
-Adiciona sistema interativo com Streamlit
+#Adiciona sistema interativo com Streamlit
